@@ -1,0 +1,11 @@
+###################
+HOW TO RUN THE DEMO
+###################
+
+NOTE: In order for this to work, you need to serve the HTML page from a web server (localhost is fine) and use Google Chrome.
+
+In order to do that, ensure you have Google Chrome installed, then simply navigate to this directory folder using terminal/command line and run the command `gulp`.
+
+You may need to run the `npm i` command first.
+
+Tweet @danieldafoe for help.

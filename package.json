@@ -1,0 +1,15 @@
+{
+  "name": "a11yto-camp-2016-demo",
+  "version": "0.0.1",
+  "description": "A demo project shown at the 2016 a11yTO Camp in Toronto, Ontario.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Dafoe",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "gulp": "^3.9.0"
+  }
+}
